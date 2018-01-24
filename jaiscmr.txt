@@ -1,0 +1,15 @@
+mkdir=make directory
+cd=change directory
+IDLE=integrated development language Environment
+Twotypes:
+1)shell
+2)Editor
+
+operations:  
+1)Addition
+2)subtraction
+3)Multiplication
+4)Division
+5)modulas 
+
+F5=Shortcut to Runmodule

@@ -1,0 +1,45 @@
+data ypes;
+int
+float
+double
+char
+
+test conditioning
+if
+if else
+while
+
+if condition
+a= int(input("enter number to check positive or negative"))
+if a>0:
+    print ("given number is positive")
+if a<0:
+    print("given number is negative")
+a=int(input("enter number to check positive or negative"))
+if a>0:
+    print ("a is positive")
+else
+    print("a is negative")
+
+elseif condition program 
+marks=int (input("enter the marks"))
+if (marks>90):
+    print("grade A")
+if (marks<60):
+    print("grade B")
+if (marks<50):
+    print("grade c")
+if (marks<40):
+    print("grade D")
+else:
+    print("fail")
+while loop condition
+a=100
+while (a<=10):
+    print(a)
+    a=a+1
+
+operators:
++,_<,></
+
+
