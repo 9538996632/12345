@@ -2,61 +2,61 @@ Python 3.6.3 (default, Oct  3 2017, 21:45:48)
 [GCC 7.2.0] on linux
 Type "copyright", "credits" or "license()" for more information.
 >>> 
-============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+============== RESTART: /home/cs2017a206/jaisurya/datatype_s5.py ==============
 hi
 >>> 
-============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+============== RESTART: /home/cs2017a207/jaisurya/datatype_s5.py ==============
 hi
 >>> 
-============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+============== RESTART: /home/cs2017a206/jaisurya/datatype_s5.py ==============
 hi
 >>> 
-============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
-hirajesh
+============== RESTART: /home/cs2017a206/jaisurya/datatype_s5.py ==============
+hijaisurya
 >>> 
-============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+============== RESTART: /home/cs2017a206/jaisurya/datatype_s5.py ==============
 Traceback (most recent call last):
-  File "/home/cs2017a207/rajesh/datatype_s5.py", line 1, in <module>
+  File "/home/cs2017a207/jaisurya/datatype_s5.py", line 1, in <module>
     string
 NameError: name 'string' is not defined
 >>> 
-============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
-hirajesh
+============== RESTART: /home/cs2017a206/jaisurya/datatype_s5.py ==============
+hijaisurya
 1.0
 80
 enter the value
-============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
-hirajesh
+============== RESTART: /home/cs2017a206/jaisurya/datatype_s5.py ==============
+hijaisurya
 80
 enter the value3
 Traceback (most recent call last):
-  File "/home/cs2017a207/rajesh/datatype_s5.py", line 13, in <module>
+  File "/home/cs2017a206/jaisurya/datatype_s5.py", line 13, in <module>
     if(a%2==0):
 TypeError: not all arguments converted during string formatting
 >>> 
-============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
-hirajesh
+============== RESTART: /home/cs2017a206/jaisurya/datatype_s5.py ==============
+hijaisurya
 80
 enter the value3
 it is odd
 enter the number654
 Traceback (most recent call last):
-  File "/home/cs2017a207/rajesh/datatype_s5.py", line 20, in <module>
+  File "/home/cs2017a206/jaisurya/datatype_s5.py", line 20, in <module>
     print(a[3][2])
 IndexError: string index out of range
 >>> 
-============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+============== RESTART: /home/cs2017a206jaisurya/datatype_s5.py ==============
 hirajesh
 80
 enter the value2
 it is even
 enter the number345
 Traceback (most recent call last):
-  File "/home/cs2017a207/rajesh/datatype_s5.py", line 20, in <module>
+  File "/home/cs2017a206/jaisurya/datatype_s5.py", line 20, in <module>
     print(a[3][2])
 TypeError: 'int' object is not subscriptable
 >>> 
-============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+============== RESTART: /home/cs2017a206/jaisurya/datatype_s5.py ==============
 hirajesh
 80
 enter the value2
@@ -67,20 +67,20 @@ Traceback (most recent call last):
     print(a[3][2])
 IndexError: string index out of range
 >>> 
-=============== RESTART: /home/cs2017a207/rajesh/opertor_s5.py ===============
+=============== RESTART: /home/cs2017a207/jaisurya/opertor_s5.py ===============
 enter the number2
 Traceback (most recent call last):
-  File "/home/cs2017a207/rajesh/opertor_s5.py", line 3, in <module>
+  File "/home/cs2017a206/jaisurya/opertor_s5.py", line 3, in <module>
     print(a[3][2])
 IndexError: string index out of range
 >>> 
-=============== RESTART: /home/cs2017a207/rajesh/opertor_s5.py ===============
+=============== RESTART: /home/cs2017a207/jaisurya/opertor_s5.py ===============
 Traceback (most recent call last):
-  File "/home/cs2017a207/rajesh/opertor_s5.py", line 3, in <module>
+  File "/home/cs2017a206/jaisurya/opertor_s5.py", line 3, in <module>
     print(a[3][2])
 TypeError: 'int' object is not subscriptable
 >>> 
-============== RESTART: /home/cs2017a207/rajesh/datatype_s5.py ==============
+============== RESTART: /home/cs2017a206/jaisurya/datatype_s5.py ==============
 hirajesh
 80
 enter the value3
