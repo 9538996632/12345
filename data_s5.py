@@ -2,11 +2,11 @@ import math
 import cmath
 #string
 a="hi"
-b="rajesh"
+b="surya"
 c=a+b
 print(c)
 
-l="rajesh kumar"
+l="surya"
 print(l[0:6])
 
 x=10
@@ -76,7 +76,7 @@ a=int(input("enter the value of a"))
 s=[10,20,30,[5,64,a],7,8]
 print(s)
 
-d={1:"hi",30:"rk"}
+d={1:"hi",30:"jai"}
 print(d[1])
 print(d[30])
 
