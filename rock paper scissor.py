@@ -6,11 +6,11 @@ t = ["Rock", "Paper", "Scissors"]
 #assign a random play to the computer
 computer = t[randint(0,2)]
  
-#set player to False
-player = False
+#set player to true
+player = true
  
-while player == False:
-#set player to True
+while player == true:
+
     player = input("Rock, Paper, Scissors?")
     if player == computer:
         print("Tie!")
@@ -32,5 +32,4 @@ while player == False:
     else:
         print("That's not a valid play. Check your spelling!")
     #player was set to True, but we want it to be False so the loop continues
-    player = False
-    computer = t[randint(0,2)]
+    
