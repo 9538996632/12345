@@ -6,10 +6,7 @@ t = ["Rock", "Paper", "Scissors"]
 #assign a random play to the computer
 computer = t[randint(0,2)]
  
-#set player to false
-player = false
- 
-while player == false:
+while (true)
 
     player = input("Rock, Paper, Scissors?")
     if player == computer:
